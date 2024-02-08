@@ -1,0 +1,79 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '5217712934461@s.whatsapp.net',
+    fromMe: false,
+    id: 'E66F4678427E3D9819DDDBFF132E169C',
+    participant: undefined
+  },
+  messageTimestamp: 1707345668,
+  pushName: 'itzcoatl3b',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '5217712934461'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_db8d2920-59af-4a69-93a3-f001839fbf9b',
+  keyword: 'key_24d20613-fdcc-4d91-9148-ec9c58eb28bd',
+  answer: 'Somos una INSTITUCION EDUCTIVA especializada en GASTRONOMÍA y TURISMO 🙋‍♀️',
+  options: {
+    media: 'https://i.postimg.cc/sX9XXW87/log.jpg',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'c222c495675b3e4119b024135fb81b2a'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_5ade9961-c91f-42ea-ad33-088e914bd4d1',
+  keyword: 'ans_db8d2920-59af-4a69-93a3-f001839fbf9b',
+  answer: 'Nuestra Licenciatura cuenta con validez oficial ante la S.E.P. REVOE:  SSEMSyS 1456101. Esto significa que tu título tendrá reconocimiento a nivel nacional e internacional.  ~2 LICENCIATURAS EN 1~ 🧑🏻‍🍳🏤🧑‍🍳',
+  options: {
+    media: 'https://i.postimg.cc/pTxkTB93/55562964-c59d-4e5a-a2a2-13dad66def8a.jpg',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '8bc6e23f7ed39a1077a9b3919f526f17'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_8c312dbe-faca-4344-b85f-0043aee1aac5',
+  keyword: 'ans_5ade9961-c91f-42ea-ad33-088e914bd4d1',
+  answer: 'contamos con diferentes programas educativos \n' +
+    '1️⃣ *Doble Licenciatura en Gastronomía   y turismo* \n' +
+    '2️⃣ *Chef Profecional  Informes  Para Diplomado en chef  Profecional*\n' +
+    '3️⃣ *ESPECIALIDAD EN GASTRONOMÍA INTERNACIONA Informes de la ESPECIALIDAD EN GASTRONOMÍA INTERNACIONAL* \n' +
+    '4️⃣ *MAESTRIA EN ADMINISTRACIÓN Y DIRECCION TURISTICA*\n' +
+    '5️⃣ *BACHILLERATO*',
+  options: {
+    media: 'https://i.postimg.cc/mk0hVmGr/48b3ac39-d3f5-4159-aa28-1acb2cc7697b.jpg',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object], [Object], [Object], [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'f32d8256a44735404c2f461d0ce7c896'
+}
